@@ -7,7 +7,7 @@
 > React | Conditional rendering
 
 ## React | State
-- Los *stateful components* pueden disponer de estado, donde se almacenan tanto los datos cambiantes del mismo como los estados visuales por los que puyede transurrir el componente tanto a nivel de información como de estética.
+- Los *stateful components* pueden disponer de estado, donde se almacenan tanto los datos cambiantes del mismo como los estados visuales por los que puede transurrir el componente.
 - El estado es un objeto accedido mediante `this.state` y actualizado mediante el método `.setState()`
 - Actualizar el estado supone renderizar de nuevo las partes que sean necesarias de la interfaz.
 
